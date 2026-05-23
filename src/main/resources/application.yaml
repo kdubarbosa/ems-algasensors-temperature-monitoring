@@ -1,3 +1,6 @@
 spring:
   application:
     name: ems-algasensors-temperature-monitoring
+
+server:
+  port: 8082
